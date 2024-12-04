@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB8C00&height=120&section=header"/>
+
 # 👨🏻‍💻 Pedro Henrique
 
 **`Desenvolvedor FullStack`**
@@ -53,3 +55,4 @@ Here are some ideas to get you started:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FB8C00&height=120&section=footer"/>
