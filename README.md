@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Henrique, tenho 19 anos e sou de São Paulo. Concluí o curso técnico em informática para internet no Senac Pindamonhangaba. Atualmente estou estudando por conta própria novas línguagens de programação e novos frameworks.
+Me chamo Pedro Henrique, tenho 20 anos e sou de São Paulo. Concluí o curso técnico em informática para internet no Senac Pindamonhangaba. Atualmente estou estudando por conta própria novas línguagens de programação e novos frameworks.
 
 <!--
 **PedroOmeeti/pedroomeeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
